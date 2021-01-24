@@ -1,0 +1,10 @@
+C:\Github\Database1\bin\Debug\Database1.dacpac
+C:\Github\Database1\bin\Debug\Database1.dll
+C:\Github\Database1\bin\Debug\Database1.pdb
+C:\Github\Database1\obj\Debug\Database1.sqlprojAssemblyReference.cache
+C:\Github\Database1\obj\Debug\Model.xml
+C:\Github\Database1\obj\Debug\refactor.xml
+C:\Github\Database1\obj\Debug\postdeploy.sql
+C:\Github\Database1\obj\Debug\predeploy.sql
+C:\Github\Database1\obj\Debug\Database1.dll
+C:\Github\Database1\obj\Debug\Database1.pdb
